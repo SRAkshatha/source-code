@@ -1,4 +1,5 @@
 //Program to calculate factorial of a number//
+Author=Mamatha
 class FactorialExample{  
  public static void main(String args[]){  
   int i,fact=1;  

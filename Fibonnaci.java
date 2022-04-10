@@ -1,4 +1,5 @@
 //program to generate fibonacci sequence for a given range of numbers//
+Author=Mamatha
 class FibonacciExample1{  
 public static void main(String args[])  
 {    
