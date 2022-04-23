@@ -1,3 +1,4 @@
+/*Spiral program*/
 public class SpiralPatternExample1  
 {  
 //defining method to print the spiral pattern or matrix  
