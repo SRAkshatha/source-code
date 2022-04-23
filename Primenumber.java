@@ -1,5 +1,5 @@
 //program to check whether a given number is prime or not//
-Author=Mamatha
+Author=Mamatha Thamatam
 public class PrimeExample{    
  public static void main(String args[]){    
   int i,m=0,flag=0;      
